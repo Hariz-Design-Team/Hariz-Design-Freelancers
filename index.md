@@ -2,12 +2,29 @@
 
 You can use the [editor on GitHub](https://github.com/Hariz-Design-Team/Hariz-Design-Freelancers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
 
-head1	head two	three
-ok	good swedish fish	nice
-out of stock	good and plenty	nice
-ok	good oreos	hmm
-ok	good zoute drop	yumm
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+{: .tablelines}
+
+| A simple | table |
+| with multiple | lines|
+{: .tablelines}
 
 ### Markdown
 
