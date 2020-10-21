@@ -2,7 +2,12 @@
 
 You can use the [editor on GitHub](https://github.com/Hariz-Design-Team/Hariz-Design-Freelancers/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+head1	head two	three
+ok	good swedish fish	nice
+out of stock	good and plenty	nice
+ok	good oreos	hmm
+ok	good zoute drop	yumm
 
 ### Markdown
 
